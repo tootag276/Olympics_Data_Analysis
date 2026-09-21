@@ -1,6 +1,5 @@
 # Olympics_Data_Analysis
 
-Olympic Games Data Analysis
 About the project
 
 This project was created as a comprehensive Power BI showcase, combining different techniques and features I learned while working with data.
